@@ -2,9 +2,7 @@
 
 Conjunto de trabajos de JavaScript para medir nuestro conocimiento sobre el lenguaje y así poder tener una idea mas clara de nuestra experiencia trabajando con este.
 
-# ################################################################################################## #
-# ######################################  Ejercicios Basicos ####################################### #
-# ################################################################################################## #
+# Ejercicios Basicos 
 
 1. **Hola Mundo**
    - Descripción: Crea un archivo `hello.js` que imprima "Hola, Mundo" en la consola.
@@ -22,9 +20,7 @@ Conjunto de trabajos de JavaScript para medir nuestro conocimiento sobre el leng
    - Descripción: Escribe un bucle `for` que imprima los números del 1 al 10.
 
 
-# ################################################################################################## #
-# ####################################  Ejercicios Intermedios ##################################### #
-# ################################################################################################## #
+# Ejercicios Intermedios 
 
 6. **Arrays y Métodos Básicos**
    - Descripción: Declara un array con los números del 1 al 5. Agrega el número 6 al final del array y luego imprime el array modificado.
@@ -55,9 +51,7 @@ Conjunto de trabajos de JavaScript para medir nuestro conocimiento sobre el leng
     - Descripción: Escribe una función `promesaSuma` que reciba dos números y devuelva una promesa que se resuelva con la suma de esos números después de 2 segundos.
 
 
-# ################################################################################################## #
-# #####################################  Ejercicios Avanzados ###################################### #
-# ################################################################################################## #
+# Ejercicios Avanzados 
 
 > [!NOTE]
 > Está sección solo fue terminada hasta el punto 17.
